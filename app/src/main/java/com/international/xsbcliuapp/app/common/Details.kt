@@ -12,8 +12,8 @@ object Details {
             cellList = mutableListOf(
                 CellsModel(title = "Lottery Guru", cellUrl = "https://www.vietnamyello.com/lottery"),
                 CellsModel(title = "Latest Result", cellUrl = "https://lo24h.com"),
+                CellsModel(title = "Winning Result", cellUrl = "https://www.magayo.com/lotto/vietnam/mega-645-results/"),
                 CellsModel(title = "Lottery Blogs", cellUrl = "https://www.itourvn.com/blog/vietnamese-lottery"),
-                CellsModel(title = "Winning Result", cellUrl = "https://www.magayo.com/lotto/vietnam/mega-645-results/")
             )
         ),
         DetailsModel(
