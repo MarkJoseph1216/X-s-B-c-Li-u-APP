@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xổ số Bạc Liêu  APP</string>
+
+    <string name="home">Nhà</string>
+    <string name="money_way">Đi tức thì</string>
+    <string name="strategy">May mắn giàu có</string>
+    <string name="tips">Cái ví</string>
+    <string name="file">Hồ sơ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
